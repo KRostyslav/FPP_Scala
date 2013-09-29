@@ -38,7 +38,7 @@ object Main {
   	}
 
   /**
-   * Exercise 3 
+   * Exercise 3
    */
   def countChange(money: Int, coins: List[Int]): Int = {
     if (money == 0) 1
